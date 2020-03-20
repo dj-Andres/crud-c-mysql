@@ -1,0 +1,41 @@
+G:\DATOS\6_ciclo\PUNTO NET\WindowsFormsApplication1\coneccion_bd\coneccion_bd\bin\Debug\coneccion_bd.exe.config
+G:\DATOS\6_ciclo\PUNTO NET\WindowsFormsApplication1\coneccion_bd\coneccion_bd\obj\Debug\coneccion_bd.Form1.resources
+G:\DATOS\6_ciclo\PUNTO NET\WindowsFormsApplication1\coneccion_bd\coneccion_bd\obj\Debug\coneccion_bd.Properties.Resources.resources
+G:\DATOS\6_ciclo\PUNTO NET\WindowsFormsApplication1\coneccion_bd\coneccion_bd\obj\Debug\coneccion_bd.csproj.GenerateResource.Cache
+G:\DATOS\6_ciclo\PUNTO NET\WindowsFormsApplication1\coneccion_bd\coneccion_bd\bin\Debug\coneccion_bd.exe
+G:\DATOS\6_ciclo\PUNTO NET\WindowsFormsApplication1\coneccion_bd\coneccion_bd\bin\Debug\coneccion_bd.pdb
+G:\DATOS\6_ciclo\PUNTO NET\WindowsFormsApplication1\coneccion_bd\coneccion_bd\obj\Debug\coneccion_bd.exe
+G:\DATOS\6_ciclo\PUNTO NET\WindowsFormsApplication1\coneccion_bd\coneccion_bd\obj\Debug\coneccion_bd.pdb
+G:\DATOS\6_ciclo\PUNTO NET\WindowsFormsApplication1\coneccion_bd\coneccion_bd\obj\Debug\coneccion_bd.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\bin\Debug\coneccion_bd.exe.config
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\obj\Debug\coneccion_bd.exe
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\obj\Debug\coneccion_bd.pdb
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\bin\Debug\coneccion_bd.exe
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\bin\Debug\coneccion_bd.pdb
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\obj\Debug\coneccion_bd.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form1.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Properties.Resources.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\obj\Debug\coneccion_bd.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form2.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form3.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form4.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form5.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form6.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form7.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\bin\Debug\coneccion_bd.exe.config
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.exe
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.pdb
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\bin\Debug\coneccion_bd.exe
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\bin\Debug\coneccion_bd.pdb
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form1.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form2.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form3.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form4.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form5.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form6.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Form7.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.Properties.Resources.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\bin\Debug\SpreadsheetLight.dll
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\bin\Debug\SpreadsheetLight.xml
