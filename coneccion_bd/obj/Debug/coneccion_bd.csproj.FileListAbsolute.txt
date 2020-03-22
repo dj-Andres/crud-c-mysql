@@ -39,3 +39,6 @@ C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\ob
 C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.csproj.GenerateResource.Cache
 C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\bin\Debug\SpreadsheetLight.dll
 C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\bin\Debug\SpreadsheetLight.xml
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.frmAdmin.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.frmLogin.resources
+C:\Users\hp\Desktop\SEXTO_CICLO\PUNTO_NET\seguno_parcial\GESTION\coneccion_bd\obj\Debug\coneccion_bd.frmUsuario.resources
